@@ -1,0 +1,34 @@
+body{
+    background-image: url("./img1-transformed.jpeg") ;
+    background-size: cover;
+}
+
+#hd{
+    font-size: 250px;
+    font-family:"";
+    color:#691313cb;
+    line-height: 200px;
+    
+}
+
+.d{
+    color:#691313cb; 
+    text-align:center ;
+    font-family: "gabriola";
+  font-size: 29px; /* Adjust the font size as needed */
+  font-style: italic;
+  font-weight: 50px;
+}
+
+.b{
+    font-family: "gabriola";
+   color:azure;
+   font-size: 24px;
+}
+
+.bu{
+    background-color:#691313cb ;
+    border-color:#691313cb ;
+    border-radius: 20px;
+    width:270px;
+}

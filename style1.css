@@ -1,0 +1,33 @@
+body{
+    background-color:  #691313cb;
+}
+
+.logo{
+    border-radius: 300px;
+    width: 560px;
+    padding:30px;
+}
+
+.container{
+    display:flex;
+}
+
+.image{
+    flex:1;
+}
+
+.content{
+    flex:1;
+    color:azure;
+    font-size: 18px;
+}
+
+.container-fluid{
+    background-color: #691313cb;
+}
+
+.nav-item{
+    color:azure;
+}
+
+
